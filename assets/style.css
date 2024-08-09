@@ -80,6 +80,7 @@ body {
 	font-size: 30px;
 }
 .about-me__introduction {
+	font-size: large;
 	font-family: 'Spectral';
 	font-weight: 800;
 	font-style: italic;
@@ -144,6 +145,7 @@ body {
 	padding-block: 3em;
 }
 .quote__text {
+	font-size: larger;
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
